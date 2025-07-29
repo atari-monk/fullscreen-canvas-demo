@@ -1,4 +1,4 @@
-import type { DrawingScheme } from "./types/DrawingScheme";
+import type { DrawingScheme } from "../types/DrawingScheme";
 
 export function createBaseStarDrawer(params: {
     orbitSpeed?: number;

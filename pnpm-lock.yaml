@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@atari-monk/fullscreen-canvas':
-        specifier: ^0.0.19
-        version: 0.0.19(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+        specifier: ^0.0.20
+        version: 0.0.20(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
       react:
         specifier: ^19.1.0
         version: 19.1.1
@@ -58,14 +58,8 @@ packages:
     resolution: {integrity: sha512-30iZtAPgz+LTIYoeivqYo853f02jBYSd5uGnGpkFV0M3xOt9aN73erkgYAmZU43x4VfqcnLxW9Kpg3R5LC4YYw==}
     engines: {node: '>=6.0.0'}
 
-  '@atari-monk/fullscreen-canvas@0.0.18':
-    resolution: {integrity: sha512-uPk94vXVhj7oNqp/1rIfqr6nmUxSl3Wkqyw/x9x7DCtPd0EgrI3MOqL9aQ7WxxrQ5428TmZx2BT2SojjjrHHMg==}
-    peerDependencies:
-      react: ^19.1.0
-      react-dom: ^19.1.0
-
-  '@atari-monk/fullscreen-canvas@0.0.19':
-    resolution: {integrity: sha512-u3rzlg5Ih0CoYcHBq6xf8a1WAwZ/2gKmhfZExzJo11bTqdmDtwoJLckpKOZOJ45ohxsTDK50JZGGF6UkYkZCMg==}
+  '@atari-monk/fullscreen-canvas@0.0.20':
+    resolution: {integrity: sha512-Zw/s38pfiU4fWxWcp8GBF+vJZ4bQ4OTQhZ0hYySASyBSSLYKAw667+l+KhWmqjtP4lufkWZyM6ZWkzGg3uxBcQ==}
     peerDependencies:
       react: ^19.1.0
       react-dom: ^19.1.0
@@ -1127,14 +1121,8 @@ snapshots:
       '@jridgewell/gen-mapping': 0.3.12
       '@jridgewell/trace-mapping': 0.3.29
 
-  '@atari-monk/fullscreen-canvas@0.0.18(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@atari-monk/fullscreen-canvas@0.0.20(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
     dependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-
-  '@atari-monk/fullscreen-canvas@0.0.19(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
-    dependencies:
-      '@atari-monk/fullscreen-canvas': 0.0.18(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
       react: 19.1.1
       react-dom: 19.1.1(react@19.1.1)
 
